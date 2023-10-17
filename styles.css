@@ -1,0 +1,6 @@
+.navigation{float: top; height: 100%; }
+.navigation a{height: 100%; display: table; float: right; padding: 20px 20px; background-color: #333333; color: #dddddd}
+.navigation a li{display: table-cell; font-size: 20px; }
+.navigation a:hover{color: #00ff00; }
+.logo-container{float: top; height: 100%; background-color: #333333; color: #dddddd}
+.content{float: middle; font-size: 20px; }
